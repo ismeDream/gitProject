@@ -11,5 +11,6 @@ public class HelloGit {
         System.out.println("version 33333");
         System.out.println("分支第一次修改");
         System.out.println("主干冲突测试");
+        System.out.println("分支测试代码冲突");
     }
 }
